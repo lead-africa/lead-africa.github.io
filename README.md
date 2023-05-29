@@ -1,31 +1,31 @@
 # Lead Africa
 
-<sup><sub>Version: 0.1 - DRAFT</sub></sup>
+<sup><sub>Version: 0.5 - DRAFT</sub></sup>
 
 ## Table Of Contents
 
 - [Lead Africa](#lead-africa)
-  - [Table Of Contents](#table-of-contents)
-  - [The Book of Africans, Chapter 3](#the-book-of-africans-chapter-3)
-  - [Prerequisites](#prerequisites)
-  - [Preparing the Masterplan](#preparing-the-masterplan)
-  - [1. Set and agree on a vision](#1-set-and-agree-on-a-vision)
-  - [2. Timeline, Cadence, and Pace](#2-timeline-cadence-and-pace)
-  - [3. Collaboration Over Competition](#3-collaboration-over-competition)
-  - [4. Essential Foundational Roles:](#4-essential-foundational-roles)
-  - [5. Guidelines for the Diaspora:](#5-guidelines-for-the-diaspora)
-  - [6. Defining "African" and the "African Nation":](#6-defining-african-and-the-african-nation)
-  - [7. Understanding the Economic and Financial Dimension:](#7-understanding-the-economic-and-financial-dimension)
-  - [8. Do We Need a Large Amount of Money?](#8-do-we-need-a-large-amount-of-money)
-  - [9. Get the Foundation Right: Principles](#9-get-the-foundation-right-principles)
-  - [10. The Shared Information System:](#10-the-shared-information-system)
-  - [11. Education](#11-education)
-  - [12. Identification of the Biggest Threats and Enemies](#12-identification-of-the-biggest-threats-and-enemies)
-  - [13. Master Your Own Communication:](#13-master-your-own-communication)
-  - [14. Agriculture is a Strategic Fundamental](#14-agriculture-is-a-strategic-fundamental)
-  - [15. Foster a Culture of Promoting Experience and Knowledge](#15-foster-a-culture-of-promoting-experience-and-knowledge)
-  - [16. Forbid the Concentration of Power](#16-forbid-the-concentration-of-power)
-  - [17. System of Job Creation, Promotion, and Renewal](#17-system-of-job-creation-promotion-and-renewal)
+	- [Table Of Contents](#table-of-contents)
+	- [The Book of Africans, Chapter 3](#the-book-of-africans-chapter-3)
+	- [Prerequisites](#prerequisites)
+	- [Preparing the Masterplan](#preparing-the-masterplan)
+	- [1. Set and agree on a vision](#1-set-and-agree-on-a-vision)
+	- [2. Timeline, Cadence, and Pace](#2-timeline-cadence-and-pace)
+	- [3. Collaboration Over Competition](#3-collaboration-over-competition)
+	- [4. Essential Foundational Roles](#4-essential-foundational-roles)
+	- [5. Guidelines for the Diaspora](#5-guidelines-for-the-diaspora)
+	- [6. Defining "African" and the "African Nation"](#6-defining-african-and-the-african-nation)
+	- [7. Understanding the Economic and Financial Dimension](#7-understanding-the-economic-and-financial-dimension)
+	- [8. Do We Need a Large Amount of Money?](#8-do-we-need-a-large-amount-of-money)
+	- [9. Get the Foundation Right: Principles](#9-get-the-foundation-right-principles)
+	- [10. The Shared Information System](#10-the-shared-information-system)
+	- [11. Education](#11-education)
+	- [12. Identification of the Biggest Threats and Enemies](#12-identification-of-the-biggest-threats-and-enemies)
+	- [13. Master Your Own Communication](#13-master-your-own-communication)
+	- [14. Agriculture is a Strategic Fundamental](#14-agriculture-is-a-strategic-fundamental)
+	- [15. Foster a Culture of Promoting Experience and Knowledge](#15-foster-a-culture-of-promoting-experience-and-knowledge)
+	- [16. Forbid the Concentration of Power](#16-forbid-the-concentration-of-power)
+	- [17. System of Job Creation, Promotion, and Renewal](#17-system-of-job-creation-promotion-and-renewal)
  
 ## The Book of Africans, Chapter 3
 
@@ -142,7 +142,8 @@ In bio-architecture, each "limb" serves a function, and there is redundancy to e
 Upon reflection, the exact nature of the geographical divisions—whether they are departments, cities, states, or even countries—doesn't really matter. What's crucial is the structure of the system of systems, starting with how the regions are governed, where the decision-making power resides in the system of change, how fluid the system of information and communication is, and how efficient and fair the counterbalancing power is. Ultimately, the concept of a nation is constructed in our minds and is shaped by our recognition of the people within and outside of this nation. To take it further, we can envision a nation that transcends the confines of a continent, extending to sub-communities in other countries.
 
 
-## 4. Essential Foundational Roles:
+## 4. Essential Foundational Roles
+
 	- Strategic Planners are necessary to act as conductors.
 	- Transformation Program Managers are required to oversee strategic progress and monitor investments.
 	- Engineers are needed to design sustainable constructions.
@@ -155,7 +156,8 @@ Upon reflection, the exact nature of the geographical divisions—whether they a
 
 
 
-## 5. Guidelines for the Diaspora:
+## 5. Guidelines for the Diaspora 
+
 	- There's no obligation to return to your home country; you can start assisting from your current location:
 		○ Educate your relatives
 		○ Invest in the future: students, companies, non-profit utilities, and social services (orphanages, religious organizations, arts, etc.)
@@ -171,12 +173,14 @@ Upon reflection, the exact nature of the geographical divisions—whether they a
 
 
 
-## 6. Defining "African" and the "African Nation":
+## 6. Defining "African" and the "African Nation" 
+
 Being African isn't solely about being born in the continent or having brown skin. It encompasses living, embracing, and sharing African cultures and values, and defending the continent's fauna, flora, and land. A nation exists because of its people, and nothing else. These people take care of one another, as well as the animals, plants, and minerals that come from African soil.
 
 
 
-## 7. Understanding the Economic and Financial Dimension:
+## 7. Understanding the Economic and Financial Dimension 
+
 To grasp the essence of the following guidelines, consider these questions:
 Can you eat money?
 Can you drink money?
@@ -223,6 +227,7 @@ Given that the African Nation possesses resources, solar energy, and fertile soi
 
 
 ## 9. Get the Foundation Right: Principles
+
 	- There should be no destructive competition. It's not about 'eat or be eaten', or 'beat or be beaten'; it's about being the best at something and striving to improve in other areas.
 	- There should be local and global marketplaces where the prices of primary goods and resources are the same, constituting an immutable frame of reference based on labor. Only transformed goods can be subjected to competition, if necessary, to establish a free market.
 	- Limits can be set in terms of size to encourage competition and create opportunities that benefit both the end consumers and the employees of the company.
@@ -232,7 +237,8 @@ Given that the African Nation possesses resources, solar energy, and fertile soi
 		○ People should have the option to build their own houses in designated spaces.
 	- Penalties for crimes should be substantial.
 
-## 10. The Shared Information System:
+## 10. The Shared Information System
+
 	- It should be fully open-source.
 	- The law and code should be public property.
 	- Every citizen who modifies the code and algorithms must be clearly identified and held accountable for each change.
@@ -242,7 +248,8 @@ Given that the African Nation possesses resources, solar energy, and fertile soi
 
 
 
-## 11. Education
+## 11. Education 
+
 	- Education should act as a preventative vaccine against corruption.
 	- Education is the thread that connects the present to the future. It should consistently reinforce the mission and values, what we aim to avoid, and where we don't wish to end up. Education should equip individuals with all necessary tools for independence, such as the ability to learn anything, mental fortitude, and examples of pitfalls (like deception, treason, theft, treachery, betrayal, etc.) that can destroy individuals, families, communities, and the nation.
 
@@ -257,7 +264,8 @@ Imported products should also be handled with care as the exchange of technology
 	1. Preserve prosperity.
 	2. Incorporate new technology or diversity only if it fosters the growth of the African nation without violating the principles of unity, respect for individuals, cultural diversity, and sustainable abundance.
 
-## 12. Identification of the Biggest Threats and Enemies
+## 12. Identification of the Biggest Threats and Enemies 
+
 The greatest enemy is within us. Collapse is what ends nations. The most significant threats are nations that have adopted the strategy of ruthlessly exploiting other nations to sustain and thrive. This leads to anti-development or "nation-killing" actions such as: 
 	- Corruption
 	- Lack of enduring programs for education in jobs requiring high-level skillsets
@@ -268,10 +276,12 @@ One of the critical problems that needs to be addressed at the core level from t
 My proposed solution to this problem is to communicate the risk of severe punishment in the event of corruption and scams. The reason is simple: Trust is the primary currency of a nation's strategic development. And trust generates another essential resource: reliability for the future.
 
 
-## 13. Master Your Own Communication: 
+## 13. Master Your Own Communication 
+
 Communication is the foundation of freedom and liberty of action. A nation cannot rely upon another's means of communication unless an agreement is in place to establish a common service for the people, with explicit and balanced decision-making power. The channels of communication should be tied to each corpus, avoiding centralization and concentration by the government (except for the corpus of governance, speaking only about governance) or media conglomerates, which ultimately may represent the interests of an individual or small group of individuals. Given societal anti-patterns, these concentrated media channels can be "hacked", with power being redirected by another hidden influential group through corruption, blackmail, or the exploitation of weaknesses. Therefore, platforms like Twitter, YouTube-like TV networks, and phygital world platforms should be established as foundations of society, leveraging a platform operating model. In this model, everyone can create their own channel, space, forum, or group for a small fee, ensuring collective ownership. This presents an enormous opportunity for setup.
 
-## 14. Agriculture is a Strategic Fundamental
+## 14. Agriculture is a Strategic Fundamental 
+
 The ability to nourish the entire population consistently is an essential foundational building block that must be perpetually maintained. It is based on:
 	- A system of cultivation
 	- A transportation system
@@ -284,7 +294,7 @@ The ability to nourish the entire population consistently is an essential founda
 	- A system of research and development
 
 
-## 15. Foster a Culture of Promoting Experience and Knowledge
+## 15. Foster a Culture of Promoting Experience and Knowledge 
 While having innate skills and powerful cognitive abilities is beneficial, what matters most is the wisdom accumulated from experiences, enabling informed decision-making based on what works and what doesn't. 
 
 ## 16. Forbid the Concentration of Power
